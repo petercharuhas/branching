@@ -1,0 +1,5 @@
+1. git checkout -b
+2. A fast forward merge is a straight line continuation without affecting other branches. A recursive merge is combining 2 branches into one to proceed.
+3. git checkout
+4. git branch -D
+5. When git is unable to automattically merge changes from other branches so you must choose one option or manually create a new option in order to proceed. 
